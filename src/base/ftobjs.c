@@ -2532,7 +2532,6 @@
     FT_UNUSED( test_mac_fonts );
 #endif
 
-
     /* only use lower 31 bits together with sign bit */
     if ( face_index > 0 )
       face_index &= 0x7FFFFFFFL;
